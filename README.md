@@ -1,5 +1,8 @@
 # This is an example for how to use [react-leaflet-fullscreen-plugin](https://github.com/elangobharathi/react-leaflet-fullscreen-plugin)
 
+**See it working in** [codesandbox](https://codesandbox.io/s/react-leaflet-fullscreen-plugin-example-k17g2?file=/src/Example.js).
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
