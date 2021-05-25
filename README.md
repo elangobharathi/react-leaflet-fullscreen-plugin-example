@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# This is an example for how to use [react-leaflet-fullscreen-plugin](https://github.com/elangobharathi/react-leaflet-fullscreen-plugin)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
